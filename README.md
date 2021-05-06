@@ -1,6 +1,8 @@
 # Livro de receitas do gui :baby_chick:
 
-## ola tenha uma boa comida :tomato:
+## olá ! contribua com sua recita favorita  :tomato:
 
 - strogonoff
 - pavê
+- pizza
+
